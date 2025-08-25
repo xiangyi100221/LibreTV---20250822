@@ -107,7 +107,7 @@ const API_SITES = {
         name: '旺旺短剧'
     },
     ikun: {
-        api: 'https://ikunzyapi.com/api.php/provide/vod',
+        api: 'https://www.ikunzy.net/api.php/provide/vod',
         name: 'iKun资源'
     },
     lzi: {
